@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T05:11:15.493Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vuaFb46bLMTLq8QFRfnS" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T09:34:52.799Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oDqksK1GGFRvaPqelPJt" version="21.6.9" type="github">
   <diagram id="DjwuBjzQSKJYnALhCdY3" name="Page-1">
-    <mxGraphModel dx="1434" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1070" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1070" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
         <mxCell id="b1JM1hCjotkIpADGfJ9--18" value="Discovery service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="341" y="279" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LTgnGZ37jLZlewwryP2t-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8woOy839lry5bqBcpYEG-1" target="LTgnGZ37jLZlewwryP2t-1">
+        <mxCell id="LTgnGZ37jLZlewwryP2t-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8woOy839lry5bqBcpYEG-1" target="LTgnGZ37jLZlewwryP2t-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8woOy839lry5bqBcpYEG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -155,7 +155,7 @@
         <mxCell id="8woOy839lry5bqBcpYEG-3" value="Headless CMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="366" y="424" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LTgnGZ37jLZlewwryP2t-1" value="Strapi DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LTgnGZ37jLZlewwryP2t-1" value="Strapi DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="371" y="530" width="69" height="80" as="geometry" />
         </mxCell>
       </root>
